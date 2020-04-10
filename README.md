@@ -1,7 +1,7 @@
 Wikiracing Candidate Brief
 ==========================
 
-This problem is designed to test your abilities to do the kind of systems programming we do at Segment, with a focus on **concurrency**, **networking**, **performance** and some **algorithmic optimizations**. 
+This problem is designed to focus on **concurrency**, **networking**, **performance** and some **algorithmic optimizations**. 
 
 Problem
 =======
